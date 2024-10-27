@@ -1,8 +1,7 @@
 public class App {
 
     // Tämä on Tulostin-ohjelmoitiharjoitus
-
-    public static void main(String[] args) throws Exception {
+        public static void main(String[] args) throws Exception {
         System.out.println("Hei olen Tulostin-ohjelma");
         System.out.print("Ohjelman tekijä ");
         String tekija;
@@ -14,7 +13,7 @@ public class App {
         luku1 = 10;
         luku2 = 5;
        
-        System.out.println("Luku1-muuttujan arvo on 10");
+         System.out.println("Luku1-muuttujan arvo on 10");
         System.out.println("Luku2-muuttujan arvo on 5");
         int tulo;
         tulo = 50;
