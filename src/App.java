@@ -1,6 +1,7 @@
 public class App {
 
     // Tämä on Tulostin-ohjelmoitiharjoitus
+    // Tämän tehtävän on tehnyt Roope Rajamäki
         public static void main(String[] args) throws Exception {
         System.out.println("Hei olen Tulostin-ohjelma");
         System.out.print("Ohjelman tekijä ");
